@@ -1,0 +1,90 @@
+FROM     : SENAI
+TO       : KLIA
+Price    : RM 63
+Departure: 1600H
+Arrival  : 1655H
+Airline  : Malaysia Airline
+--------------------------------------
+FROM     : KLIA
+TO       : SENAI
+Price    : RM 63
+Departure: 1800H
+Arrival  : 1858H
+Airline  : Air Asia
+--------------------------------------
+FROM     : SENAI
+TO       : KLIA2
+Price    : RM 51
+Departure: 0700H
+Arrival  : 0755H
+Airline  : Fire Fly
+--------------------------------------
+FROM     : KLIA2
+TO       : SENAI
+Price    : RM 51
+Departure: 0900H
+Arrival  : 0958H
+Airline  : Fire Fly
+--------------------------------------
+FROM     : SENAI
+TO       : LABUAN
+Price    : RM 168
+Departure: 0500H
+Arrival  : 0927H
+Airline  : Air Asia
+--------------------------------------
+FROM     : LABUAN
+TO       : SENAI
+Price    : RM 168
+Departure: 1800H
+Arrival  : 2245H
+Airline  : Malaysia Airline
+--------------------------------------
+FROM     : KLIA
+TO       : LABUAN
+Price    : RM 104
+Departure: 0600H
+Arrival  : 0831H
+Airline  : Malaysia Airline
+--------------------------------------
+FROM     : LABUAN
+TO       : KLIA
+Price    : RM 104
+Departure: 0630H
+Arrival  : 0856H
+Airline  : Air Asia
+--------------------------------------
+FROM     : LABUAN
+TO       : KLIA2
+Price    : RM 97
+Departure: 2300H
+Arrival  : 0126H
+Airline  : Fire Fly
+--------------------------------------
+FROM     : KLIA2
+TO       : LABUAN
+Price    : RM 97
+Departure: 0200H
+Arrival  : 0431H
+Airline  : Malaysia Airline
+--------------------------------------
+
+Cancelled	-> Refund 40%
+ChangeDate	-> Add 15%
+--------------------------------------
+First Class	-> Add 20%
+Second Class	-> Add 10%
+Economy Class	-> Normal Price
+
+
+
+
+
+
+
+
+
+
+
+
+

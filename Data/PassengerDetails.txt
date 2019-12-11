@@ -1,0 +1,6 @@
+Unique Number,Name,Age,Gender From,Destination,Departure Time,Arrival Time,Price,Airline,Book Time
+1,Ainal Farhan Mohamad Johari,20,M,SENAI,KLIA2,0700H,0755H,51,Fire Fly,Mon May 13 01:24:40 2019
+3,Faiz Hakimi Ishak,20,M,SENAI,LABUAN,0500H,0927H,168,Air Asia,Mon May 13 01:24:40 2019
+1,Nurul Izzati Wahid,21,F,SENAI,LABUAN,0500H,0927H,168,Air Asia,Mon May 13 02:28:08 2019
+1,Farah Wahidah Zafran,18,F,KLIA2,LABUAN,0200H,0431H,97,Malaysia Airline,Mon May 13 02:36:46 2019
+1,Johar Abu Kassim,78,M,LABUAN,KLIA,0630H,0856H,104,Air Asia,Mon May 13 02:42:05 2019

@@ -1,0 +1,9 @@
+Unique Number,Firstname,Lastname,Age,Gender,Email,Email Extension,Password
+1,Mohd Ainal Farhan,Mohamad Johari,20,M,mohdainalfarhan,gmail.com,!123@ainal
+2,Mohammad Ridzwan Syah,Irwan,20,M,Ridzwan125,yahoo.com,Ridzwan1372@
+3,Faiz Hakimi,Ishak,20,M,HenshinRider,gmail.com,Henshin(*7654
+4,Luqman Al-Hakim,Ghani,20,M,lag.99,gmail.com,lag99%123
+5,John Legend,Apex,32,M,ApexLegend,gmail.com,Apex!@#1235
+6,Fareez,Fauzi,20,M,Fareezfauzi,gmail.com,Fareez!@#9903
+7,Abdullah,Muhammad,35,M,Abdullah,yahoo.com,Abdullah!2
+8,ainal farhan,mohd johari,29,M,johr,gmail.com,1234567!@#$%^&A
